@@ -84,7 +84,7 @@ export const ProjectList = [
     ],
     timeline: "July 2025",
     text: "An intelligent PC builder tool that allows users to generate the best possible computer builds based on their budget, use case, and preferences.",
-    url: "https://github.com/ahmed-almouna/MetaBuild",
+    url: "https://github.com/ahmedalmoune/MetaBuild",
   },
   {
     name: "MyGallery",
@@ -100,7 +100,7 @@ export const ProjectList = [
     ],
     timeline: "March 2025",
     text: "A gallery/photo sharing web app for people to share their photos and interact with other users.",
-    url: "https://github.com/ahmed-almouna/Gallery",
+    url: "https://github.com/ahmedalmoune/Gallery",
   },
   {
     name: "Dev Web Server",
@@ -112,7 +112,7 @@ export const ProjectList = [
     ],
     timeline: "Nov 2024",
     text: "A lightweight web server for developers to test their network applications during development.",
-    url: "https://github.com/ahmed-almouna/Web-Server",
+    url: "https://github.com/ahmedalmoune/Web-Server",
   },
   {
     name: "MS-DOS Notepad",
@@ -125,7 +125,7 @@ export const ProjectList = [
     ],
     timeline: "Aug 2024",
     text: "An MS-DOS style notepad app for Windows. Implements core notepad functionality and features with an MS-DOS style UI.",
-    url: "https://github.com/ahmed-almouna/Notepad",
+    url: "https://github.com/ahmedalmoune/Notepad",
   },
 
 ];

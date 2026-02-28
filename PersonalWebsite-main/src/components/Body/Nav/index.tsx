@@ -6,7 +6,7 @@ export default function Nav() {
   return (
     <div className="flex justify-between items-center pt-10 w-full text-lg md:text-xl lg:text-2xl">
       <Link href="/" className=" font-bold text-black">
-        AHMED ALMOUNA
+        AHMED ALMOUNE
       </Link>
       <Link
         href={"Resume.pdf"}

@@ -3,15 +3,15 @@ import "./globals.css";
 import { Poppins } from "next/font/google";
 
 export const metadata = {
-  title: "Ahmed Almouna",
-  description: "Ahmed Almouna Personal Portfolio Website",
+  title: "Ahmed Almoune",
+  description: "Ahmed Almoune Personal Portfolio Website",
   keywords: "Ahmed Almouna, Portfolio, Software Engineer, Software Developer, Web Developer, ahmed almouna," +
   "ahmed almoune, ahmed elmouna, ahmed elmoune, ahmed al mouna, ahmed al moune, ahmed el mouna, ahmed el moune," +
   "ahmed almona, ahmed almone, ahmed elmona, ahmed elmone, ahmed al mona, ahmed al mone, ahmed el mona, ahmed el mone," +
   "ahmad almouna, ahmad almoune, ahmad elmouna, ahmad elmoune, ahmad al mouna, ahmad al moune, ahmad el mouna," +
   "ahmad el moune, ahmad almona, ahmad almone, ahmad elmona, ahmad elmone, ahmad al mona, ahmad al mone, ahmad el mona," +
   "ahmad el mone",
-  author: "Ahmed Almouna",
+  author: "Ahmed Almoune",
 };
 
 const poppins = Poppins({
