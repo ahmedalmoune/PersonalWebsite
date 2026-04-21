@@ -46,7 +46,7 @@ export default function About() {
                       </div>
                     )}
                     
-                    <div className="space-y-5 md:hidden">
+                    <div className="space-y-5 2xl:hidden">
                       {((aboutEntry as any).mobileBullets ?? aboutEntry.bullets).map((text: string, index: number) => (
                         <p key={index} className="text-gray-700 leading-relaxed">
                           {text}
@@ -54,7 +54,7 @@ export default function About() {
                       ))}
                     </div>
                     
-                    <div className="space-y-5 hidden md:block">
+                    <div className="space-y-5 hidden 2xl:block">
                       {aboutEntry.bullets.map((text: string, index: number) => (
                         <p key={index} className="text-gray-700 leading-relaxed">
                           {text}

@@ -31,8 +31,8 @@ export const AboutList = [
       "Eastowood Colligate Institute - Kitchener, ON ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Sep 2019 - Jun 2023 ⠀⠀• Graduated with a grade 12 average of 86% ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀• Played soccer throughout."
     ],
     mobileBullets: [
-      "Conestoga College: Currently in 2nd year of Software Engineering with a 3.83/4.00 GPA • Member of Google Developer Student Club.",
-      "Eastwood Collegiate Institute: Graduated with a Gr. 12 average of 86% • Played soccer throughout my time."
+      "Conestoga College: Software Engineering grad with a 3.80/4.00 GPA • Member of Google Developer Student Club.",
+      "Eastwood Collegiate Institute: Graduated with a grade 12 average of 86% • Played soccer throughout."
     ],
     
   },

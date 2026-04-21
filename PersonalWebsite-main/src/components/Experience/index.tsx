@@ -16,8 +16,8 @@ export default function Experience() {
       <div className="text-5xl font-bold uppercase flex justify-center">
         Experience
       </div>
-      <div className="flex flex-col md:flex-row gap-6 md:gap-10 justify-center items-stretch mt-10 md:mt-20">
-        <div className="flex flex-col items-center gap-y-6 md:gap-y-8">
+      <div className="flex flex-col 2xl:flex-row gap-6 2xl:gap-10 justify-center items-stretch mt-10 md:mt-20">
+        <div className="flex flex-col items-center gap-y-6 2xl:gap-y-8">
           {ExperienceList.map((experienceEntry: experienceProps) => {
             return (
               <div key={experienceEntry.company} className="text-2xl md:text-3xl">
@@ -35,8 +35,8 @@ export default function Experience() {
             );
           })}
         </div>
-        <div className="hidden md:block w-0.5 bg-black md:h-[550px] self-stretch" />
-        <div className="w-full md:w-1/4 max-w-sm md:max-w-none mx-auto md:mx-0 px-4 md:px-0 flex gap-y-6 md:gap-y-8">
+        <div className="hidden 2xl:block w-0.5 bg-black 2xl:h-[550px] self-stretch" />
+        <div className="w-full 2xl:w-1/4 max-w-sm 2xl:max-w-none mx-auto 2xl:mx-0 px-4 2xl:px-0 flex gap-y-6 2xl:gap-y-8">
           {ExperienceList.map((experienceEntry: experienceProps) => {
             if (experienceEntry.company === company) {
               return (
