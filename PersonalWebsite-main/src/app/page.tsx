@@ -21,9 +21,9 @@ const Sections: JSX.Element[] = [
 export default function Home() {
   return (
     <div className="flex flex-col">
-      {Sections.map((section: JSX.Element, index: number) => {
-        return (
-          <div className="flex justify-center h-fit relative pb-10">
+    {Sections.map((section: JSX.Element, index: number) => {
+      return (
+        <div key={index} className="flex justify-center h-fit relative pb-10">
             <div className="w-full px-5 lg:w-11/12 lg:px-20 ">
               {section}
             </div>

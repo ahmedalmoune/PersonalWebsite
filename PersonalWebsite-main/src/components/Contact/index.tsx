@@ -11,7 +11,7 @@ export default function Contact() {
       </div>
       <div className="flex justify-center items-center">
         <div className="w-11/12 md:w-5/12 text-center text-2xl font-extralight">
-          I'm always free to discuss project ideas, potential new opportunities, 
+          I'm always free to discuss project ideas, new opportunities, 
           questions about my experience, or just say hello! 
         </div>
       </div>

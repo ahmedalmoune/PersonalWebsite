@@ -12,7 +12,7 @@ export default function Body() {
             src={"/photo.png"}
             width={400}
             height={400}
-            quality={100}
+            quality={75}
             unoptimized={true}
             sizes="(min-width: 768px) 400px, 160px"
             priority={true}
@@ -22,8 +22,8 @@ export default function Body() {
         <div className="bg-white w-full md:w-[500px] h-fit py-10 md:py-24 px-6 md:px-12 flex items-center flex-col md:-ml-16 md:mt-80 mt-6">
           <div className="text-4xl md:text-5xl font-bold pb-6 md:pb-10">Hey There!</div>
           <div className="text-lg md:text-2xl text-center">
-            I’m Ahmed, a junior Software Engineering student. Check
-            out my portfolio to see the cool stuff I'm working on.
+            I'm Ahmed, a Junior Software Engineer. Check
+            out my portfolio to see what stuff I'm working on.
           </div>
         </div>
       </div>
