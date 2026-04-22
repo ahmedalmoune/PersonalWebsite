@@ -83,7 +83,7 @@ export const ProjectList = [
       "Git",
     ],
     timeline: "Work in Progress...",
-    text: "An intelligent PC builder tool that allows users to generate the best possible computer builds based on their budget, use case, and preferences.",
+    text: "An intelligent PC building tool that allows users to generate the best possible computer builds based on their budget, use case, and other preferences.",
     url: "https://github.com/ahmedalmoune/MetaBuild",
   },
   {
@@ -97,7 +97,7 @@ export const ProjectList = [
       "Git",
     ],
     timeline: "April 2026",
-    text: "A group-based goal tracking app that uses AI verification and gamification to help users complete goals and build habits through social accountability and collaborative progress tracking.",
+    text: "A group-based goal tracking app that uses gamification and AI verification to help users complete goals and build habits through social accountability and collaborative progress tracking.",
     url: "https://setprojectday.ca/post/2026/squadquest/",
   },
   // {
