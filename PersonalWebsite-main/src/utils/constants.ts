@@ -20,14 +20,14 @@ export const AboutList = [
     topic: "Skills",
     role: "My skills",
     bullets: ["• Languages: C/C++, C#, Python, HTML/CSS, JS/TS, PHP, SQL, Java, ARM Assembly.",
-      "• Frameworks & Libraries: React, Express, Tailwind, Bootstrap, Expo, Django, Django REST, ASP.NET, .NET Framework, WPF. ",
-      "• Platforms & Tools: Git/GitHub, Shell, Azure, MySQL, PostgreSQL, Azure DevOps, Postman, IIS, Linux, Selenium, Lucidchart, Figma, Logisim, CodeWarrior, NodeJS, Microsoft 365.",
+      "• Frameworks & Libraries: React, Express, Tailwind, Bootstrap, Expo, Django, Django REST, WPF, ASP.NET, .NET Framework. ",
+      "• Platforms & Tools: Git/GitHub, PostgreSQL, MySQL, Linux, Azure, Postman, Selenium, Shell, NodeJS, CodeWarrior, Azure DevOps, Lucidchart, Logisim, Figma, IIS,Microsoft 365.",
     ],
   },
   {
     topic: "Education",
     role: "Education",
-    bullets: ["Conestoga College - Waterloo, ON⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Sep 2023 - Apr 2026 ⠀⠀• Software Engineering grad with a 3.80/4.00 GPA. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀• Member of Google Developer Student Club.",
+    bullets: ["Conestoga College - Waterloo, ON⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Sep 2023 - Apr 2026 ⠀⠀• Software Engineering grad with a 3.80/4.00 GPA. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀• Member of Google Developer Student Club.",
       "Eastowood Colligate Institute - Kitchener, ON ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Sep 2019 - Jun 2023 ⠀⠀• Graduated with a grade 12 average of 86% ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀• Played soccer throughout."
     ],
     mobileBullets: [
@@ -51,7 +51,7 @@ export const ExperienceList = [
     company: "ENK Maintenance",
     url: "",
     role: "Cleaning Specialist",
-    timeline: "Jun 2023 - May 2025",
+    timeline: "Jun 2025 - May 2026",
     bullets: ["Performed cleaning duties of residential and commercial spaces, including vacuuming, dusting, wiping, and floor sanitation to maintain high cleanliness standard.", 
       "Managed time efficiently to complete multiple cleaning tasks within a scheduled timeframe.",
       "Monitored inventory of cleaning supplies to ensure continuous operation.",
