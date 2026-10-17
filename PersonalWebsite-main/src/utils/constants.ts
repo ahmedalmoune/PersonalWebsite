@@ -27,12 +27,10 @@ export const AboutList = [
   {
     topic: "Education",
     role: "Education",
-    bullets: ["Conestoga College - Waterloo, ON⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Sep 2023 - Apr 2026 ⠀⠀• Software Engineering grad with a 3.80/4.00 GPA. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀• Member of Google Developer Student Club.",
-      "Eastowood Colligate Institute - Kitchener, ON ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Sep 2019 - Jun 2023 ⠀⠀• Graduated with a grade 12 average of 86% ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀• Played soccer throughout."
+    bullets: ["McMaster University - Hamilton, ON⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Sep 2026 - Apr 2028 ⠀⠀• Software Engineering Technology. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀• "
     ],
     mobileBullets: [
-      "Conestoga College: Software Engineering grad with a 3.80/4.00 GPA • Member of Google Developer Student Club.",
-      "Eastwood Collegiate Institute: Graduated with a grade 12 average of 86% • Played soccer throughout."
+      "McMaster University: Software Engineering Technology."
     ],
     
   },
